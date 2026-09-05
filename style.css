@@ -15,7 +15,9 @@ body {
 }
 
 
-
+/* =========================
+   HEADER / NAVBAR
+========================= */
 
 header {
     width: 100%;
@@ -36,7 +38,7 @@ header {
 }
 
 
-
+/* Logo */
 
 .logo h1 {
     font-family: 'Black Ops One', sans-serif;
